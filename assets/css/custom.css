@@ -1,0 +1,80 @@
+/* ========== 全局基础：页面大背景（浅芋紫底色） ========== */
+body {
+  /* 极淡芋紫全局底色，不会刺眼，高级雾面感 */
+  background-color: #f7f2fb;
+  color: #2d2d2d;
+  font-family: "Microsoft YaHei", system-ui, sans-serif;
+  line-height: 1.7;
+}
+
+/* 页面主体白色容器（浅紫阴影烘托层次感） */
+.wrapper {
+  background-color: #ffffff;
+  border-radius: 16px;
+  /* 芋紫色柔和阴影，深浅交错氛围感 */
+  box-shadow: 0 4px 18px rgba(156, 102, 204, 0.12);
+  padding: 35px;
+  margin: 30px auto;
+  max-width: 1250px;
+}
+
+/* ========== 左侧侧边栏模块（深芋紫底色卡片） ========== */
+.sidebar {
+  background-color: #efe6f7;
+  padding: 24px;
+  border-radius: 14px;
+  border-left: 5px solid #9c66cc;
+}
+
+/* 侧边栏标题（你的名字） */
+.site-title {
+  color: #7b4bb7;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+/* 侧边简介文字 */
+.site-description {
+  color: #5a3d80;
+  font-size: 16px;
+}
+
+/* ========== 所有标题色系（渐变芋紫层级） ========== */
+h1 {
+  color: #6b3fa0;
+  border-bottom: 2px solid #d8c8eb;
+  padding-bottom: 6px;
+}
+h2 {
+  color: #7b4bb7;
+}
+h3 {
+  color: #8d5fc0;
+}
+
+/* ========== 超链接配色（紫系渐变 hover 效果） ========== */
+a {
+  color: #8854c0;
+  text-decoration: none;
+  transition: 0.25s ease;
+}
+a:hover {
+  color: #5e3594;
+  text-decoration: underline;
+}
+
+/* ========== 列表样式（课程列表美化） ========== */
+.main-content li {
+  color: #383838;
+  margin: 8px 0;
+  padding-left: 4px;
+}
+.main-content li::marker {
+  color: #9c66cc;
+}
+
+/* 页面底部文字弱化 */
+.footer {
+  color: #80689c;
+  font-size: 14px;
+}
