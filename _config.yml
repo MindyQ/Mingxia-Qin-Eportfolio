@@ -1,10 +1,11 @@
 title: Mingxia Qin # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  
   Life-long learner
-  Second description 
+ 
   Life explorer
+  
   <a href=https://www.linkedin.com/in/mingxia-qin-773377179/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
