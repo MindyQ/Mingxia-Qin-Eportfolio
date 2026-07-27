@@ -10,7 +10,7 @@
 
 ### About Me
 
-### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
+### [Professional](https://github.com/MindyQ/Mingxia-Qin-Eportfolio/blob/63e89756aa8d220964ff2d5835156f30cf1f0228/Professional.md)
 
 ### [Personal](https://github.com/MindyQ/eportfolio/blob/c929a5300dc920d9225ad89b8fcbda98b38dcd7f/personal.md)
 
