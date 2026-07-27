@@ -1,9 +1,9 @@
 title: Mingxia Qin # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
-descrption:>
-    Life-long learner<br>
-    Life explorer<br><br>
-    <a href=https://www.linkedin.com/in/mingxia-qin-773377179/">View My LinkedIn Profile</a> 
-  
+description: >
+  Life-long learner<br>
+  Life explorer<br><br>
+  <a href="https://www.linkedin.com/in/mingxia-qin-773377179/">View My LinkedIn Profile</a>
+
 theme: jekyll-theme-minimal
 
