@@ -1,10 +1,10 @@
 ## E-Portfolio of   
 
-![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png)
+![](https://github.com/MindyQ/eportfolio/blob/75b557ab1b1cfabef91991f672b5cf32b6dfd872/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027205520_7.jpg)
 
-# Steve Johnson, CISSP, CVP       
+# Mingxia Qin, Educator, Student      
 
-## MSc. Cybersecurity Cohort May 2021
+## BA in TCSOL/PGCE（international）
 
 ---
 
@@ -12,13 +12,13 @@
 
 ### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
 
-### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
+### [Personal](https://github.com/MindyQ/eportfolio/blob/c929a5300dc920d9225ad89b8fcbda98b38dcd7f/personal.md)
 
 
 ### University of Essex Learning Experience
 
 *   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
-*   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Module 1 Titile](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Module 2 Title](http://example.com/)
 *   [Module 3 Title](http://example.com/)
 *   [Module 4 Title](http://example.com/)
