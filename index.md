@@ -1,7 +1,5 @@
 ## E-Portfolio of   
 
-<img src="https://github.com/MindyQ/eportfolio/raw/75b557ab1b1cfabef91991f672b5cf32b6dfd872/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027205520_7.jpg" width="300" alt="personal photo">
-
 # Mingxia Qin, Educator, Student      
 
 ## BA in TCSOL/PGCE（international）
@@ -17,7 +15,7 @@
 
 ### University of Essex Learning Experience
 
-*   [Induction Module]([https://github.com/crypto61/eportfolio/blob/master/Induction.md](https://github.com/MindyQ/Mingxia-Qin-Eportfolio/blob/08adcc8c6a2e86e4dbeac5d7a0af26b3983f1905/Moodle/Moodle-InductionModule/index.md))
+*   [Induction Module](https://github.com/MindyQ/Mingxia-Qin-Eportfolio/blob/82502f6a8a8604f34dd5f1c8af3739bc7ef9be77/Moodle/Moodle-InductionModule/index.md)
 *   [Module 1 Titile](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Module 2 Title](http://example.com/)
 *   [Module 3 Title](http://example.com/)
