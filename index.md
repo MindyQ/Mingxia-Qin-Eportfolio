@@ -1,6 +1,6 @@
 ## E-Portfolio of   
 
-![](https://github.com/MindyQ/eportfolio/blob/75b557ab1b1cfabef91991f672b5cf32b6dfd872/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027205520_7.jpg)
+<img src="https://github.com/MindyQ/eportfolio/raw/75b557ab1b1cfabef91991f672b5cf32b6dfd872/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027205520_7.jpg" width="300" alt="personal photo">
 
 # Mingxia Qin, Educator, Student      
 
