@@ -15,8 +15,8 @@
 
 ### University of Essex Learning Experience
 
-*   [Induction Module](https://github.com/MindyQ/Mingxia-Qin-Eportfolio/blob/82502f6a8a8604f34dd5f1c8af3739bc7ef9be77/Moodle/Moodle-InductionModule/index.md)
-*   [Module 1 Titile](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Induction Module](Moodle/Moodle-InductionModule/index.md)
+*   [Module 1 Launch into Computing](Moodle/Module1/index.md)
 *   [Module 2 Title](http://example.com/)
 *   [Module 3 Title](http://example.com/)
 *   [Module 4 Title](http://example.com/)
